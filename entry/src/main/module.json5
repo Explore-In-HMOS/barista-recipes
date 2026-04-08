@@ -49,12 +49,21 @@
         "reason": "$string:app_name",
         "usedScene": {
           "abilities": [
-            "FormAbility"
+            "EntryAbility"
           ],
           "when":"inuse"
         }
+      },
+      {
+        "name": "ohos.permission.ACCELEROMETER",
+        "reason": "$string:app_name",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
       }
-
     ],
     "metadata": [
       {
