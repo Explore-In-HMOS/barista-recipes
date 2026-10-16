@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # BaristaRecipes
 
 BaristaRecipes is a demo app that helps users brew delicious coffee at home. It includes **milk-based** and **non-dairy** recipes and guides you step‑by‑step through preparation. Using **Sensor Kit**, assist with mixing and timing for a more consistent brew.
