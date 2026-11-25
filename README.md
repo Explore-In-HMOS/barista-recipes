@@ -31,7 +31,7 @@ BaristaRecipes lets users:
 # Tech Stack
 
 Languages: ArkTS
-Frameworks: HarmonyOS NEXT SDK 5.1.0(18)
+Frameworks: HarmonyOS SDK 5.1.0(18)
 Tools: DevEco Studio Vers 5.1.0.820
 Libraries: `@kit.ArkUI`, `@kit.SensorServiceKit`, `@kit.ArkData` (Preferences)
 
